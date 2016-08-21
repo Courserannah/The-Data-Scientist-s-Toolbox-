@@ -1,2 +1,2 @@
-# The-Data-Scientist-s-Toolbox-
+# The-Data-Scientist-s-Toolbox
 Repo for the coursera course "The Data Scientist’s Toolbox"
